@@ -4,5 +4,6 @@
 	</head>
 	<body>
 		<p>hola mundo</p>
+		<strong>mundial</strong>
 	</body>
 </htmal>
