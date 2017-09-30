@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>proyecto 1</title>
+	</head>
+	<body>
+		<p>hola mundo</p>
+	</body>
+</htmal>
